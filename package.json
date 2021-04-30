@@ -3,7 +3,7 @@
     "node-fetch": "^2.6.1"
   },
   "name": "fivem-server-stats",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "A package to get the stats (like player count) of a fivem server",
   "main": "index.js",
   "devDependencies": {},
