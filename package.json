@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "name": "fivem-server-stats",
+  "version": "1.0.0",
+  "description": "A package to get the stats (like player count) of a fivem server",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fivem",
+    "fivem-player-count",
+    "js",
+    "fivem-api",
+    "fivem-server",
+    "gta-5"
+  ],
+  "author": "FC5570",
+  "license": "MIT"
+}
