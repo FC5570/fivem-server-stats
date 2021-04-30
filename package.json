@@ -19,5 +19,13 @@
     "gta-5"
   ],
   "author": "FC5570",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FC5570/fivem-server-stats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FC5570/fivem-server-stats/issues"
+  },
+  "homepage": "https://github.com/FC5570/fivem-server-stats#readme"
 }

@@ -8,21 +8,21 @@ A package to get the stats of a fivem server (like player count)
 
 ```
 const fivem = require("fivem-server-stats")
-fivem.getPlayerLength('ip').then((data) => console.log(data))
+fivem.getPlayerLength('ip:port').then((data) => console.log(data))
 ```
 
 #### 2. getPlayers()
 
 ```
 const fivem = require("fivem-server-stats")
-fivem.getPlayers('ip').then((data) => console.log(data))
+fivem.getPlayers('ip:port').then((data) => console.log(data))
 ```
 
 #### 3. getInfo()
 
 ```
 const fivem = require("fivem-server-stats")
-fivem.getInfo('ip').then((data) => console.log(data))
+fivem.getInfo('ip:port').then((data) => console.log(data))
 ```
 
 ### If you get any errors and need help, contact me on Discord: FC#5104
